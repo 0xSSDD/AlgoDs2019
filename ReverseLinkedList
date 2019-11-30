@@ -1,4 +1,5 @@
 class ListNode {
+//saves all the references
   int val;
   ListNode next;
   ListNode(int val) {
